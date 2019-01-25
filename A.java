@@ -6,3 +6,5 @@ class B{
     System.out.println("Hello");
   }
 }
+class C{
+}
