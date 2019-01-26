@@ -11,4 +11,6 @@ class C{
    }
    void rotate(){
    }
+   void circle(){
+   }
 }
