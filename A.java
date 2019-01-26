@@ -7,4 +7,6 @@ class B{
   }
 }
 class C{
+   void play(){
+   }
 }
